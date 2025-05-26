@@ -2,7 +2,13 @@
 layout: home
 title: "김용태"
 ---
-
+<center>
+  <img
+    src="img/공명의비.png"
+    width="100"
+    height="200"
+  />
+</center>
 <p>안녕하세요. 개발자 · 화가 · 레이싱 코치 김용태입니다.</p>
 <ul>
   <li><a href="/pages/about.html">소개</a></li>
