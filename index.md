@@ -4,7 +4,7 @@ title: "김용태"
 ---
 <center>
   <img
-    src="img/공명의비.png"
+    src="pages/img/공명의비.png"
     width="100"
     height="200"
   />
