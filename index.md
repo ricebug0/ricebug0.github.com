@@ -5,7 +5,7 @@ title: "김용태"
 <center>
   <img
     src="pages/img/공명의비.jpg"
-    width="80%"
+    xwidth="80%"
   />
 </center>
 <p>안녕하세요. 개발자 · 화가 · 레이싱 코치 김용태입니다.</p>
